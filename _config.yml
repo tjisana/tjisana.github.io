@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Learning Web Development
 header-img: img/home-bg.png
 email: tjisana@gmail.com
 copyright_name: tjisana
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tjisana
